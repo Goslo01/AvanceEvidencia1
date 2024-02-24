@@ -6,7 +6,7 @@ Para instalar y configurar intelliJ me fui a la pagina oficial del programa y de
 
 
 Uso del programa.
-(El programa todavia no es desarrollado en codigo)
+El programa se puede usar en hospitales y clinicas, es un sistema de administración de citas para un consultorio clínico
 
 Créditos.
 Autor Principal : Luis Carlos Gonzalez Salinas 
